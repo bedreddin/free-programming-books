@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T12:18:49.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="vuPLiwuvPPOuCeGdrQP9" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T12:26:49.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MRiNzy2H7nqOPY7b84G1" version="14.7.6" type="github">
   <diagram id="4dsvGqndPtk7zQRugNVc" name="Page-1">
-    <mxGraphModel dx="981" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="483" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-2" value="Hareket Kontrolcüsü&lt;br&gt;(comuted torque, pid vb.)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="399" y="270" width="90" height="60" as="geometry" />
+          <mxGeometry x="400" y="270" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.318;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vUpk6sxPQSn8tMHkfNGP-3" target="vUpk6sxPQSn8tMHkfNGP-5">
           <mxGeometry relative="1" as="geometry">
@@ -33,13 +33,13 @@
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.327;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vUpk6sxPQSn8tMHkfNGP-3" target="vUpk6sxPQSn8tMHkfNGP-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="269" y="240" />
-              <mxPoint x="305" y="240" />
+              <mxPoint x="269" y="230" />
+              <mxPoint x="305" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-3" value="Lidar okuması" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="229" y="180" width="80" height="50" as="geometry" />
+          <mxGeometry x="229" y="175" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUpk6sxPQSn8tMHkfNGP-4" target="vUpk6sxPQSn8tMHkfNGP-5">
           <mxGeometry relative="1" as="geometry">
@@ -82,7 +82,8 @@
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUpk6sxPQSn8tMHkfNGP-16" target="vUpk6sxPQSn8tMHkfNGP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="379" y="300" />
+              <mxPoint x="390" y="283" />
+              <mxPoint x="390" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -96,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-16" value="Haritalama ve konumlama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269" y="260" width="110" height="50" as="geometry" />
+          <mxGeometry x="269" y="245" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vUpk6sxPQSn8tMHkfNGP-28">
           <mxGeometry relative="1" as="geometry">
@@ -140,6 +141,16 @@
         </mxCell>
         <mxCell id="vUpk6sxPQSn8tMHkfNGP-39" value="Yörünge Planlayıcı" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vUpk6sxPQSn8tMHkfNGP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vUpk6sxPQSn8tMHkfNGP-42" target="vUpk6sxPQSn8tMHkfNGP-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUpk6sxPQSn8tMHkfNGP-42" value="Odometre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="295" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
